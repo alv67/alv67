@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile. 
 
+[![An image of @alv67's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alv67)](https://holopin.io/@alv67)
+
 This is my development laboratory. 
 
 Here I do my 🧪 experiments , try new 👨‍💻 programming languages, test web 💻 frameworks...
