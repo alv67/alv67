@@ -10,7 +10,7 @@ This is my development laboratory.
 
 Here I do my 🧪 experiments , try new 👨‍💻 programming languages, test web 💻 frameworks...
 
-- 🃏 I'm currently partecipating at [Advent of Code 2024](https://adventofcode.com/)
+- 🃏 I'm currently partecipating at [HGacktoberfest 2025](https://hacktoberfest.com)
 
 <!--
 **alv67/alv67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
