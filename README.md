@@ -12,6 +12,8 @@ Here I do my 🧪 experiments , try new 👨‍💻 programming languages, test 
 
 - 🃏 I'm currently partecipating at [Hacktoberfest 2025](https://hacktoberfest.com)
 
+[![An image of @alv67's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alv67)](https://holopin.io/@alv67)
+
 <!--
 **alv67/alv67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
