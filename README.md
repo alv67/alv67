@@ -10,7 +10,7 @@ This is my development laboratory.
 
 Here I do my 🧪 experiments , try new 👨‍💻 programming languages, test web 💻 frameworks...
 
-- 🔭 I’m currently working on [Peculium](https://github.com/alv67/peculium)
+- 🔭 I’m currently working on [Peculium](https://github.com/alv67/peculium), [ocsync](https://github.com/alv67/ocsync)
 - 📖 I'm currently writing a book (private for now) [Building the Sound](https://github.com/novice-handbooks/building-the-sound)
 - 📙 See my Maker FAQ on [Alv67 Maker FAQ](https://novice-handbooks.github.io/maker/)
 
